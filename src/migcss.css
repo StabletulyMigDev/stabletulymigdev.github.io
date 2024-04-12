@@ -1,0 +1,37 @@
+body {
+    background: black;
+    font-family: monospace;
+    color: white;
+    text-align: center;
+  }
+  
+  button {
+    background-color: gray;
+    color: white;
+    block-size: large;
+  }
+  
+  p {
+    font-family: monospace, matrix, sans-serif;
+  }
+  
+  .title {
+    font-family: system-ui, sans-serif;
+    font-size: xx-large;
+    text-decoration-shadow: white;
+  }
+  
+  .link {
+    font-family: monospace;
+    font-size: small;
+    color: blueviolet;
+  }
+  
+  .card {
+    border: 10;
+    border-block: 200;
+    background-color: gray;
+    text-decoration-color: blueviolet;
+    font-style: sandybrown;
+    font-family: space-between;
+  }
